@@ -1,0 +1,1 @@
+# bitcoin2026-workshop-stage
