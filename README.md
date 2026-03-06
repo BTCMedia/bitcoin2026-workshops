@@ -24,7 +24,7 @@ To see the Workshop Stage Schedule [click here](https://github.com/users/Joanofs
 
 To visit the Bitcoin 2026 Website [click here](https://2026.b.tc/)
 
-To book a hotel room [click here](https://github.com/users/Joanofsnark391/projects/4](https://www.jampack.com/events/bitcoin-2026/book))
+To book a hotel room [click here](https://www.jampack.com/events/bitcoin-2026/book)
 
 
 

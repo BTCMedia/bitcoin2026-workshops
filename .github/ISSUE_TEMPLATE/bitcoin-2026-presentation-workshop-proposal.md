@@ -10,7 +10,7 @@ email: ''
 
 # Talk Proposal Submission
 
-Thank you for submitting a talk for MyConf 2026!
+Thank you for submitting a talk for Bitcoin 2026!
 
 Please fill out the sections below as completely as possible.
 
