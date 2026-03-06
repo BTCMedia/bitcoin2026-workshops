@@ -4,6 +4,7 @@ about: Submit a presentation/workshop proposal for Bitcoin2026
 title: ''
 labels: ''
 assignees: ''
+email: ''
 
 ---
 
