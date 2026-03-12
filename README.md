@@ -1,8 +1,9 @@
-# bitcoin2026-workshop-stage
+# Bitcoin 2026 - Dev Takeover
 
-Welcome to the Bitcoin 2026 Workshop Stage! A few of us were tired of paper bitcoin and decided to start a dev/workshop takeover. So like all good takeovers, we first asked for permission 😝 
+Welcome to the Bitcoin 2026 Workshop Stage! A few of us were tired of paper bitcoin summer and were ready for open-source spring.
+<img width="1920" height="2636" alt="image" src="https://github.com/user-attachments/assets/9841d946-514f-480a-b299-7360c11ebb41" />
 
-Good news is, we asked for permission, so you don't have to. We want to see what you've been workin' on, thinking about, and tinkering with. If you have something too exciting to keep to yourself, we want to know. You have the opportunity to share your ideas at the biggest Bitcoin Conference in the World. So, what are you waiting for?! Propose your talk now!! 👇
+We want to see what you've been workin' on, thinking about, and tinkering with. If you have something too exciting to keep to yourself, we want to know. You have the opportunity to share your ideas at the biggest Bitcoin Conference in the World. So, what are you waiting for?! Propose your talk/workshop now!! :point_down:
 
 ---
 
@@ -18,7 +19,7 @@ That’s it. No forking. No pull requests. Just tell us what you're building.
 
 ---
 
-To jump propose a talk [click here](https://github.com/BTCMedia/bitcoin2026-workshops/issues)
+To jump to proposing a talk [click here](https://github.com/BTCMedia/bitcoin2026-workshops/issues)
 
 To see the Workshop Stage Schedule [click here](https://github.com/orgs/BTCMedia/projects/6)
 
