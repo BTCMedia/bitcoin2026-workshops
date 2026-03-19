@@ -24,6 +24,10 @@ Please fill out the sections below as completely as possible.
 
 ---
 
+## Speaker Email (Please provide this so that we can issue you a ticket for the event) 
+
+---
+
 ## Talk Description
 
 ### What is this talk about?
